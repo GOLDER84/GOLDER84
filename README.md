@@ -19,10 +19,13 @@
 
 ---
 
+
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=GOLDER84&show_icons=true)
-
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=GOLDER84&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GOLDER84&layout=compact&theme=tokyonight" height="180"/>
+</p>
 
 ---
 
