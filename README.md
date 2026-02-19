@@ -21,18 +21,8 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GOLDER84&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GOLDER84&layout=compact&theme=tokyonight" height="180"/>
-</p>
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=GOLDER84&show_icons=true)
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GOLDER84&theme=tokyonight&row=1&column=6"/>
-</p>
 
 ---
 
