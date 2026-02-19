@@ -1,45 +1,70 @@
-# Hi, I'm Aref Zargar 👋
+<h1 align="center">Hi 👋, I'm Aref Zargar</h1>
+<h3 align="center">Computer Engineering Student</h3>
 
-🎓 Computer Engineering Student at University of Isfahan  
-☕ Passionate about Java, C#, and Software Architecture  
+
+## 👨‍💻 About Me
+
+- 🎓 Computer Engineering Student at University of Isfahan  
+- 💻 Interested in Backend Development & Software Architecture  
+- ☕ Working with Java, C#, and OOP principles  
+- 🚀 Eager to gain real-world development experience  
 
 ---
 
 ## 🛠 Tech Stack
 
-- Java  
-- C++  
-- C#  
-- Object-Oriented Programming (OOP)  
-- MVC Architecture  
-- Clean Architecture  
-- Git & GitHub  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,cpp,cs,dotnet,git,github,mysql,html,css" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GOLDER84&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GOLDER84&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GOLDER84&theme=tokyonight&row=1&column=6"/>
+</p>
 
 ---
 
 ## 📌 Featured Projects
 
-🔹 Marketplace (Clean Architecture)  
-🔹 Youtube Clone Project  
-🔹 Plants vs Zombies Game  
-🔹 Marketplace Sample  
+- 🛒 Marketplace – Clean Architecture  
+- 🎬 Youtube Clone  
+- 🧟 Plants vs Zombies Game  
+- 🛍 Marketplace Sample
 
 
 ---
 
-## 🌱 Currently Learning
+## 📫 Connect With Me
 
-- Spring Boot  
-- REST API Development  
-- Database Design  
+<p align="left">
+<a href="https://www.linkedin.com/in/aref-zargar-a95287367/" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+
+<a href="mailto:aref.unlimited.84@gmail.com">
+<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40"/>
+</a>
+</p>
 
 ---
 
-## 📫 Contact Me
+## 👀 Visitor Counter
 
-- 📧 Email: aref.unlimited.84@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/aref-zargar-a95287367/  
-- 🧑‍💻 GitHub: https://github.com/GOLDER84  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GOLDER84&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
 
 ---
 
