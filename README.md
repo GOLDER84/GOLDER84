@@ -1,7 +1,6 @@
 # Hi, I'm Aref Zargar 👋
 
 🎓 Computer Engineering Student at University of Isfahan  
-💻 Junior Backend Developer  
 ☕ Passionate about Java, C#, and Software Architecture  
 
 ---
