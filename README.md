@@ -24,11 +24,6 @@
 🔹 Plants vs Zombies Game  
 🔹 Marketplace Sample  
 
----
-
-## 📊 GitHub Stats
-
-![Aref's GitHub stats](https://github-readme-stats.vercel.app/api?username=GOLDER84&show_icons=true)
 
 ---
 
